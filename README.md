@@ -1,0 +1,2 @@
+# Event-Management-System-JAVA-MAJOR-PROJECT
+JAVA MAJOR PROJECT
